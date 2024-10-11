@@ -3,5 +3,6 @@ public class Page2Test {
         System.out.println("Testq Testa");
         System.out.println("New code line");
         System.out.println("Nova promena.");
+        System.out.println("Da be vazi be");
     }
 }
